@@ -1,7 +1,7 @@
 # 📚 Modul 450 / AP23d – Testing
 
 Dieses Repository enthält die Aufgaben, Übungen und Projektarbeiten aus dem Modul **Testing**.  
-Alle Inhalte sind nach Wochen gegliedert.  
+Alle Inhalte sind nach Wochen gegliedert.  Ich arbeite Mit Noah Burren zusammen. Die Aufgaben verlinken auf unser gemeinsames Repo.
 
 ---
 
